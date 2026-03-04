@@ -19,7 +19,7 @@ OpenClaw skill for managing notes in [Memos](https://usememos.com/) via REST API
 
 ```
 Install and configure the memos-note skill for OpenClaw by following the instructions here:
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/README.md
+https://raw.githubusercontent.com/LiuCH4NG/memos-skill/refs/heads/master/README.md
 ```
 
 或者简单说：
