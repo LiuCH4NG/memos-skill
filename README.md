@@ -61,7 +61,7 @@ ls -la ~/.openclaw/skills/memos-note/
 #### Step 3: 配置环境变量
 
 询问用户：
-1. **Memos 实例地址**（如：`http://182.92.163.3:5230`）
+1. **Memos 实例地址**（如：`http://xxx.xxx.xxx.xxx:5230`）
 2. **API Token**（从 Memos Settings → API 获取）
 
 然后创建 `.env` 文件：
